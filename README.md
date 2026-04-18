@@ -130,7 +130,7 @@ Examples:
 - Lightweight Spaceship (LWSS)
 
 <p align="center">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.28.06.jpeg" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Glider.png" width="20%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/LWSS.png" width="20%">
 </p>
