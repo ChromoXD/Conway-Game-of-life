@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+### [Open](https://chromoxd.github.io/Conway-Game-of-life/)
+
 A casual implementation of Conway's Game of Life built with JavaScript and Canvas.
 
 This project simulates a cellular automaton where simple rules create surprisingly complex patterns.
