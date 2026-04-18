@@ -31,8 +31,8 @@ If a living cell has fewer than 2 living neighbours, it dies.
 
 Example:
 
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(5).jpeg" width="40%">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(1).jpeg" width="40%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(5).jpeg" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(1).jpeg" width="20%">
 
 The top cell dies because it only has 0 neighbours.
 
