@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+#cvs {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    z-index: 0;
+}
+
+#ctrl {
+    position: absolute;
+    z-index: 1;
+    top: 0.5%;
+    left: 40%;
+    width: 20%;
+    height: 10%;
+    background-color: #352F44;
+    border-radius: 10px;
+    border: 3px solid #FAF0E6;
+}
+
+#Start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    top: 7%;
+    left: 3%;
+    width: 28%;
+    height: 80%;
+    background-color: rgba(255, 255, 255, 0.436);
+    border-radius: 10px;
+    border: 3px solid #FAF0E6;
+}
+
+#Next {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    top: 7%;
+    left: 35.5%;
+    width: 28%;
+    height: 80%;
+    background-color: rgba(255, 255, 255, 0.436);
+    border-radius: 10px;
+    border: 3px solid #FAF0E6;
+}
+
+#Clear {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    top: 7%;
+    left: 68%;
+    width: 28%;
+    height: 80%;
+    background-color: rgba(255, 255, 255, 0.436);
+    border-radius: 10px;
+    border: 3px solid #FAF0E6;
+}
+
+.material-symbols-rounded {
+    font-size: 300%;
+    color: white;
+}
+
+#Start:hover,#Clear:hover,#Next:hover,#Stop:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.555);
+}
