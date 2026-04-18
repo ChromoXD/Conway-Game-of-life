@@ -1,4 +1,3 @@
-```md
 # Conway's Game of Life
 
 A casual implementation of Conway's Game of Life built with JavaScript and Canvas.
@@ -161,4 +160,3 @@ The fun part is experimenting with random patterns and seeing what happens.
 - Zoom and pan
 - Save / load patterns
 - Dark mode / theme customization
-```
