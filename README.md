@@ -44,8 +44,11 @@ If a living cell has 2 or 3 living neighbors, it survives.
 
 Example:
 
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(4).jpeg" width="100%">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11.jpeg" width="100%">
+<p align="center">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(4).jpeg" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11.jpeg" width="20%">
+</p>
 
 The centre cell survives because it has 2 neighbours.
 
@@ -55,8 +58,11 @@ If a living cell has more than 3 living neighbours, it dies.
 
 Example:
 
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(2).jpeg" width="100%">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(3).jpeg" width="100%">
+<p align="center">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(2).jpeg" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(3).jpeg" width="20%">
+</p>
 
 The center cell dies because it has 8 neighbors.
 
@@ -66,8 +72,11 @@ If a dead cell has exactly 3 living neighbors, it becomes alive.
 
 Example:
 
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(6).jpeg" width="100%">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(7).jpeg" width="100%">
+<p align="center">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(6).jpeg" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(7).jpeg" width="20%">
+</p>
 
 The empty center-right cell becomes alive because it has exactly 3 neighbors.
 
