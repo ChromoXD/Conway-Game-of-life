@@ -23,19 +23,18 @@ Even though the rules are simple, the patterns can become very complex.
 
 ## Rules
 
-Each cell checks its 8 surrounding neighbors.
+Each cell checks its 8 surrounding neighbours.
 
 ### 1. Underpopulation
 
-If a living cell has fewer than 2 living neighbors, it dies.
+If a living cell has fewer than 2 living neighbours, it dies.
 
 Example:
 
-. . .
-. O .
-. O .
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(5).jpeg" width="40%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(1).jpeg" width="40%">
 
-The top cell dies because it only has 1 neighbor.
+The top cell dies because it only has 0 neighbours.
 
 ### 2. Survival
 
@@ -43,23 +42,21 @@ If a living cell has 2 or 3 living neighbors, it survives.
 
 Example:
 
-. O .
-O O .
-. . .
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(4).jpeg" width="100%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11.jpeg" width="100%">
 
-The center cell survives because it has 2 neighbors.
+The centre cell survives because it has 2 neighbours.
 
 ### 3. Overpopulation
 
-If a living cell has more than 3 living neighbors, it dies.
+If a living cell has more than 3 living neighbours, it dies.
 
 Example:
 
-O O O
-O O .
-. . .
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(2).jpeg" width="100%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(3).jpeg" width="100%">
 
-The center cell dies because it has 4 neighbors.
+The center cell dies because it has 8 neighbors.
 
 ### 4. Reproduction
 
@@ -67,9 +64,8 @@ If a dead cell has exactly 3 living neighbors, it becomes alive.
 
 Example:
 
-O O .
-O . .
-. . .
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(6).jpeg" width="100%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(7).jpeg" width="100%">
 
 The empty center-right cell becomes alive because it has exactly 3 neighbors.
 
@@ -86,9 +82,6 @@ Examples:
 - Block
 - Beehive
 - Loaf
-
-![Block Pattern](images/block.png)
-![Beehive Pattern](images/beehive.png)
 
 ### Oscillator
 
@@ -147,16 +140,3 @@ The fun part is experimenting with random patterns and seeing what happens.
 - HTML Canvas
 - HTML
 - CSS
-
----
-
-## Future Ideas
-
-- Pause / Resume button
-- Adjustable simulation speed
-- Grid size control
-- Pattern presets
-- Random generation
-- Zoom and pan
-- Save / load patterns
-- Dark mode / theme customization
