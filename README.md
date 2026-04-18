@@ -1,6 +1,8 @@
 # Conway's Game of Life
 
-### [Open](https://chromoxd.github.io/Conway-Game-of-life/)
+<p align="center">
+### [Live Preview](https://chromoxd.github.io/Conway-Game-of-life/)
+</p>
 
 A casual implementation of Conway's Game of Life built with JavaScript and Canvas.
 
