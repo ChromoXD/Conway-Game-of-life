@@ -94,6 +94,14 @@ Examples:
 - Beehive
 - Loaf
 
+<p align="center">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/image.png" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Screenshot%202026-04-18%20123913.png" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/loaf.png" width="20%">
+</p>
+
 ### Oscillator
 
 Patterns that repeat after a certain number of generations.
@@ -104,8 +112,13 @@ Examples:
 - Toad
 - Beacon
 
-![Blinker Pattern](images/blinker.png)
-![Toad Pattern](images/toad.png)
+<p align="center">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Blinker.png" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Toad.png" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Beacon.png" width="20%">
+</p>
 
 ### Spaceship
 
@@ -116,8 +129,11 @@ Examples:
 - Glider
 - Lightweight Spaceship (LWSS)
 
-![Glider Pattern](images/glider.png)
-![LWSS Pattern](images/lwss.png)
+<p align="center">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.28.06.jpeg" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/LWSS.png" width="20%">
+</p>
 
 ### Guns
 
@@ -127,7 +143,9 @@ Examples:
 
 - Gosper Glider Gun
 
-![Gosper Glider Gun](images/gosper-glider-gun.png)
+<p align="center">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.28.061.jpeg" width="20%">
+</p>
 
 ---
 
