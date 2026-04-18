@@ -1,7 +1,7 @@
 # Conway's Game of Life
 
 <p align="center">
-  <h4><a href="https://chromoxd.github.io/Conway-Game-of-life/">Play Demo</a></h4></h4>
+  <h4 align="center"><a href="https://chromoxd.github.io/Conway-Game-of-life/">Play Demo</a></h4></h4>
 </p>
 
 A casual implementation of Conway's Game of Life built with JavaScript and Canvas.
