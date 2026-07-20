@@ -49,9 +49,9 @@ If a living cell has 2 or 3 living neighbors, it survives.
 Example:
 
 <p align="center">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(4).jpeg" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11%20(4).jpeg" width="100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11.jpeg" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.45.11.jpeg" width="100%">
 </p>
 
 The centre cell survives because it has 2 neighbours.
