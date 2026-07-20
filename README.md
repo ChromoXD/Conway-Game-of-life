@@ -99,7 +99,7 @@ Examples:
 - Loaf
 
 <p align="center">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/image.png" height="100%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/image.png" height="80%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Screenshot%202026-04-18%20123913.png" height="100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
