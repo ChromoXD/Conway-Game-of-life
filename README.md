@@ -117,7 +117,7 @@ Examples:
 - Beacon
 
 <p align="center">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Blinker.png" height="100%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Blinker.png" height="80%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Toad.png" height="100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
