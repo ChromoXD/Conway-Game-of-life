@@ -99,11 +99,11 @@ Examples:
 - Loaf
 
 <p align="center">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/image.png" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/image.png" height="100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Screenshot%202026-04-18%20123913.png" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Screenshot%202026-04-18%20123913.png" height="100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/loaf.png" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/loaf.png" height="100%">
 </p>
 
 ### Oscillator
@@ -117,11 +117,11 @@ Examples:
 - Beacon
 
 <p align="center">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Blinker.png" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Blinker.png" height="100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Toad.png" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Toad.png" height="100%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Beacon.png" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/Beacon.png" height="100%">
 </p>
 
 ### Spaceship
