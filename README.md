@@ -148,7 +148,7 @@ Examples:
 - Gosper Glider Gun
 
 <p align="center">
-<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.28.061.jpeg" width="20%">
+<img src="https://github.com/ChromoXD/Conway-Game-of-life/blob/main/src/images/WhatsApp%20Image%202026-04-18%20at%2011.28.061.jpeg" width="100%">
 </p>
 
 ---
